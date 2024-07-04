@@ -1,10 +1,4 @@
-Sure! Here's a comprehensive README template for your AI Travel Agent app using React, Vite, JavaScript, OpenAI, and Axios:
-
----
-
 # AI Travel Agent App
-
-![AI Travel Agent](./path-to-your-logo-or-screenshot.png)
 
 ## Overview
 
