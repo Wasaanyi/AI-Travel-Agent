@@ -26,7 +26,7 @@ Follow these steps to set up the project locally:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/ai-travel-agent.git
+   git clone https://github.com/wasaanyi/ai-travel-agent.git
    cd ai-travel-agent
    ```
 

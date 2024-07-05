@@ -2,7 +2,6 @@ import axios from "axios";
 
 const getLocationData = async (location) => {
   const locationData = JSON.parse(location);
-  console.log(locationData.location);
   const endpoint = `https://geocoding-api.open-meteo.com/v1/search?name=${encodeURIComponent(
     locationData.location
   )}&count=1`;
